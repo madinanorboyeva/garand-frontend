@@ -324,8 +324,3 @@ const Contact = () => {
 };
 
 export default Contact;
-
-
-
-
-// salom dunyo 
